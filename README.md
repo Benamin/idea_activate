@@ -1,7 +1,5 @@
 # IntelliJ 全家桶和付费插件 最新破解
 
-## ① ja-netfilter-all（推荐）  https://3.jetbra.in
-
 ### 使用方法: 
 ```
 1. 进入 ja-netfilter-all\scripts 文件夹
@@ -52,13 +50,3 @@
 | JFormDesigner (Marketplace Edition)     | Flutter Storm                                         | ElasticSearch-Admin               | OrchidE - Ansible Language Support         |
 | QueryFlag                               | AWS Lambda Deployer                                   | Typed Django Template             | PlantUML Studio                            |
 | Iedis 2                                 |                                                       |                                   |                                            |
-
-![image-20220816193838028](http://shfs.cf/img/202208161938082.png)
-
-![image-20220822150400383](http://shfs.cf/img/202208221504462.png)
-
-## ② http://lookdiv.com/
-
-![image-20220816194717785](http://shfs.cf/img/202208161947102.png)
-
-![image-20220816194736595](http://shfs.cf/img/202208161947646.png)
